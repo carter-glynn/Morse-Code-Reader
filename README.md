@@ -1,4 +1,4 @@
-# Traffic-Light-Controller
+# Morse-Code-Controller
 
 ## Goal
  - Use FreeRTOS on the STM32 NUCLEO series to create an embedded system.
